@@ -1,0 +1,8 @@
+Blink	KEYWORD1
+BlinkIt	KEYWORD1
+duty	KEYWORD1
+period	KEYWORD1
+timeOn	KEYWORD1
+timeOff	KEYWORD1
+whatPeriod	KEYWORD1
+whatDuty	KEYWORD1
